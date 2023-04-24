@@ -1,3 +1,3 @@
-aws_access_key = "AKIARASJM3XFDLQT2KHM"
-aws_secret_key = "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"
+aws_access_key = ""
+aws_secret_key = ""
 aws_region = "us-east-1"
